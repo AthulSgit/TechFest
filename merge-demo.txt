@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-TechFest Version B
-=======
 TechFest Version A
->>>>>>> feature/conflict-demo
