@@ -20,3 +20,7 @@ test("Unknown route should return 404", async () => {
   assert.equal(response.status, 404);
   assert.equal(response.body.message, "Route not found");
 });
+
+test("Deliberately failing test", () => {
+  assert.equal(1, 2);
+});
